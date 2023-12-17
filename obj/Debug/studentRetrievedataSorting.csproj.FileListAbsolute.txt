@@ -1,0 +1,7 @@
+C:\c# project2\studentRetrievedataSorting\studentRetrievedataSorting\bin\Debug\studentRetrievedataSorting.exe.config
+C:\c# project2\studentRetrievedataSorting\studentRetrievedataSorting\bin\Debug\studentRetrievedataSorting.exe
+C:\c# project2\studentRetrievedataSorting\studentRetrievedataSorting\bin\Debug\studentRetrievedataSorting.pdb
+C:\c# project2\studentRetrievedataSorting\studentRetrievedataSorting\obj\Debug\studentRetrievedataSorting.csproj.AssemblyReference.cache
+C:\c# project2\studentRetrievedataSorting\studentRetrievedataSorting\obj\Debug\studentRetrievedataSorting.csproj.CoreCompileInputs.cache
+C:\c# project2\studentRetrievedataSorting\studentRetrievedataSorting\obj\Debug\studentRetrievedataSorting.exe
+C:\c# project2\studentRetrievedataSorting\studentRetrievedataSorting\obj\Debug\studentRetrievedataSorting.pdb
